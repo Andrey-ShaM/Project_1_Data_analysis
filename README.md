@@ -2,19 +2,19 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#1.-Описание-проекта)
+[1. Описание проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Описание-проекта)
 
-[2. Цель проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#2.-Цель-проекта)
+[2. Цель проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Цель-проекта)
 
-[3. Краткая информация о данных](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#3.-Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Краткая-информация-о-данных)
 
-[4. Основные этапы проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#4.-Основные-этапы-проекта)
+[4. Основные этапы проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Основные-этапы-проекта)
 
-[5. Результаты](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#5.-Результаты)
+[5. Результаты](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Результаты)
 
-[6. Выводы](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#6.-Выводы)
+[6. Выводы](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Выводы)
 
-### 1. Описание проекта
+### Описание проекта
 
 В нашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru. 
 
@@ -26,13 +26,13 @@
 
 :arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
 
-### 2. Цель проекта
+### Цель проекта
 
 Преобразование, исследование и очистка данных
 
 :arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
 
-### 3. Краткая информация о данных
+### Краткая информация о данных
 
 При работе над проектом были использонаны следующие данные:
 
@@ -42,7 +42,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
 
-### 4. Основные этапы проекта
+### Основные этапы проекта
 
 Проект состоит из четырёх частей:
 
@@ -56,7 +56,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
 
-### 5. Результаты
+### Результаты
 
 1. В ходе анализа выведена основная информация о данных представленных в файле
 
@@ -95,7 +95,7 @@
 :arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
 
 
-### 6. Выводы
+### Выводы
 1. По результатам проведенных этапов были полученны необходимые актулизированные данные, отчищенные от выбросов и с заполненными пропусками.
 2. По результатам анализа влияния признаков на размер желаемой зарабатной платы были установлены следующие взаимосвязи:
    * Установлено влияние образования - чем оно лучше тем больше размер желаемой зарабатной платы. Кроме этого образование влияет на рост заработной платы с увеличением возраста.
