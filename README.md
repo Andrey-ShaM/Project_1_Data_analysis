@@ -2,17 +2,17 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#1.-Описание-проекта)
 
-[2. Цель проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Цель-проекта)
+[2. Цель проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#2.-Цель-проекта)
 
-[3. Краткая информация о данных](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#3.-Краткая-информация-о-данных)
 
-[4. Основные этапы проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Основные-этапы-проекта)
+[4. Основные этапы проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#4.-Основные-этапы-проекта)
 
-[5. Результаты](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Результаты)
+[5. Результаты](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#5.-Результаты)
 
-[6. Выводы](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Выводы)
+[6. Выводы](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#6.-Выводы)
 
 ### 1. Описание проекта
 
