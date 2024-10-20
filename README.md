@@ -40,6 +40,10 @@
 
 2. Файл со вспомогательными данными курсов валют за исследуемый переиод (ExchangeRates.csv), находящийся в папке data
 
+3. Непосредственно сам файл с кодом обработки данных Project-1._HW_data_analyse.ipynb 
+
+4. Используемые версии библиотек приведены в файле requirements.txt
+
 :arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
 
 ### Основные этапы проекта
